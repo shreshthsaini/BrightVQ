@@ -153,16 +153,6 @@ Please checkout the full dataset.
 
 
 
----
-## 🏆 Use Cases and Future Impact
-
-### ✅ Benchmark for HDR UGC Video Quality Assessment
-- BrightVQ provides the first large-scale dataset for HDR UGC quality evaluation, enabling researchers to develop and compare No-Reference (NR) VQA models for HDR conten
-### ✅ Improving HDR Streaming and Compression
-- Streaming platforms (e.g., YouTube, Netflix, Prime Video) can optimize their encoding pipelines by using BrightRate and BrightVQ to assess perceptual quality at different bitrates and HDR processing techniques.
-### ✅ Standardization and HDR Quality Metrics Development
-- BrightVQ can contribute to the development of new HDR quality standards, potentially influencing ITU-T, MPEG, and industry-led VQA benchmarks
-
 ## 📜 Citation
 Please cite us if this work is helpful to you.
 
