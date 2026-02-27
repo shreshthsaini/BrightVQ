@@ -1,0 +1,3 @@
+This is a placeholder file.
+The original BrightRate BrightVQ model checkpoint is not bundled in this repository.
+Please download the checkpoint and replace this file before running inference.
