@@ -2,7 +2,7 @@
 
 **Authors:** Shreshth Saini<sup>1</sup>, Bowen Chen<sup>1</sup>, Yilin Wang<sup>1</sup>, Neil Birkbeck<sup>2</sup>, Balu Adsumilli<sup>2</sup>, Alan C. Bovik<sup>1</sup>  
 **Affiliations:** <sup>1</sup>UT Austin, <sup>2</sup>Google  
-**Conference:** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), March 2026
+**Conference:** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), March 2026 (Oral, **Best Student Paper Award**)
 
 
 
